@@ -1,5 +1,5 @@
-add this extension in your target browser
-you will get cookies csv sent to your telegram
+-add this extension in your target browser
+-you will get cookies csv sent to your telegram
 
 ![the Bot](./images/image1.png)
 *Running the bot*
