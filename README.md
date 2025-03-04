@@ -4,5 +4,5 @@
 ![the Bot](./images/image1.png)
 *Running the bot*
 
-![cookies](./images/imagef.png)
+![cookies](./images/image2.png)
 *yes this are cookies*
